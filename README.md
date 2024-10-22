@@ -30,9 +30,9 @@
 </div>
 <div>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sbharatdwaj&show_icons=true&locale=en" alt="sbharatdwaj"  height="140" /></p>
-</div>
+</div><br/>
 
-<br>
+<br/>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbharatdwaj&show_icons=true&locale=en&layout=compact" alt="sbharatdwaj"/></p>
